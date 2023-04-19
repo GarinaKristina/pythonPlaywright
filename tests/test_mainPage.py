@@ -1,4 +1,4 @@
-from pageObjects.MainPage import MainPage
+from pageObjects.pages.MainPage import MainPage
 import re
 from playwright.sync_api import Page, expect
 
