@@ -9,7 +9,9 @@ Here I am testing UI for web application as www.ebay.com
 Installation command
 
 git clone https://github.com/GarinaKristina/PET_project_python_playwright.git
+
 cd PET_project_python_playwright
+
 pip install -r requirements.txt
 
 Testing command
