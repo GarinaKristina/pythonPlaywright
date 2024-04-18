@@ -1,5 +1,3 @@
-# PET_project_python_playwright
-
 Hey, everyone!
 This is my pet progect based on playwright framework, using python as programming language.
 Here I am testing UI for web application as www.ebay.com
@@ -10,7 +8,7 @@ Installation command
 
 git clone https://github.com/GarinaKristina/PET_project_python_playwright.git
 
-cd PET_project_python_playwright
+cd pythonPlaywright
 
 pip install -r requirements.txt
 
